@@ -25,6 +25,9 @@ Built using Python and Streamlit, the application leverages AI and NLP technique
 2. Install dependencies:pip install -r requirements.txt.
 3. Run the app: streamlit run app.py.
 
+## Sample Output
+![PDF Report] (match_report.pdf)
+
 ## Project Files
 - `app.py` – Streamlit UI and flow
 - `matcher_v3.py` – Matching logic and keyword analysis
