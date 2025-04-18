@@ -26,7 +26,9 @@ Built using Python and Streamlit, the application leverages AI and NLP technique
 3. Run the app: streamlit run app.py.
 
 ## Sample Output
-![PDF Report] (match_report.pdf)
+![Sample Resume](OutputSample/sample_resume.pdf)
+![Sample text](OutputSample/sample_jd.txt)
+![Sample Match report](OutputSample/sample_match_report.pdf)
 
 ## Project Files
 - `app.py` – Streamlit UI and flow
