@@ -1,0 +1,4 @@
+
+We are seeking a Data Analyst with strong experience in Python, SQL, and data visualization tools. 
+The ideal candidate should be able to build dashboards, extract insights from data, and work on machine learning models.
+Knowledge of Pandas, Streamlit, and Scikit-learn is preferred.
